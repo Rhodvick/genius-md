@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## GENIUS-MD 👨‍💻 🇱🇰 - A  WhatsApp User Bot
 
 <br>
 
@@ -10,7 +10,7 @@
  
   <p align="center">  
   <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+    <img alt="Genius-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
     
   
   </a>
@@ -26,11 +26,11 @@
 <br>
   
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRhodvick%2Fgenius-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![forks](https://img.shields.io/github/forks/prabathLK/PRABATH-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/Rhodvick/genius-md?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/prabathLK/PRABATH-MD?style=social)
+![stars](https://img.shields.io/github/stars/Rhodvick/genius-md?style=social)
 
 
 
@@ -38,7 +38,7 @@
 <br>
 <br>
 
-<a href="https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black" alt="📎 Join Our WhatsApp Channel" width="300"></a>
 
 <br>
 
@@ -48,11 +48,11 @@
 
 <br>
 
-[![FORK PRABATH-MD](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white)](https://github.com/prabathLK/PRABATH-MD/fork)
+[![FORK GENIUS-MD](https://img.shields.io/badge/FORK%20-GENIUS%20MD-white)](https://github.com/Rhodvick/genius-md/fork)
 
  ---
  
-<a href="https://prabath-md-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
+<a href="https://Genius-md-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
 
 ---
 
@@ -60,25 +60,21 @@
 
 ---
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`GENIUS-MD BOT OWNERS,`** 👑
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
-
----
-
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
+   <a href="https://github.com/Rhodvick/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
 ---
 
-<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
-
-|**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
+|**[`RHODVICK TECH`](https://github.com/Rhodvick)**|
 
 ---
 
-## ❤️‍🩹 Special Thanks to
-* [`vihangayt0`](https://github.com/vihangayt0/)
+
+
+---
+
 
 <br>
 <br>
@@ -91,6 +87,6 @@
 
 
 
-`Released date:- 2023.08.24`
+`Released date:- 2024.08.04`
 <br>
-`latest updated date:- 2024.07.14`
+`latest updated date:- 2024.08.12`
